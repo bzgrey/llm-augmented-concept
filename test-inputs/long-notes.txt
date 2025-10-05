@@ -1,0 +1,157 @@
+Rav Aryeh Lebowitz Hilchos Shabbos
+
+1: Introduction to Melachos Shabbos
+•	לט מלאכות – The Torah itself doesn’t actually identify them 
+o	Only specifies 3-4 of them: 
+o	הבערה: ((שבת ע There is a machlokes whether it is a specified to say it is just a lav (R’ Yosi) or lechalek – a paradigm to teach us about melachos (R’ Nosson) that you are chayav for every one that you do like with havara
+o	חרישה וקצירה – Gm’ Makkos (8:) has a machlokes whether this is teaching about Shmittah or it is about Shabbos to come to teach me that קצירת העומר is docheh Shabbos
+o	הוצאה – Tos’ (B.) explains why the Torah had to specify it. Because it’s a מלאכה גרועה – It isn’t a creative activity, you aren’t doing anything, and that’s why the chumahs needs to talk about it. 
+	Nafka minahs for it being a melacha gruah:
+•	It is different than a normal melacha, which is why it is mutar on yom tov
+•	Maasah Shabbos doesn’t apply to it – You invited someone for Shabbos and they bring something from outside of eiruv
+•	Chayei Odom holds it’s mutar to benefit from it (not everyone holds this way but sometimes have to rely on it)
+•	Daf 42b. :  The 39 melachos are the melachos from the mishkan, and another opinion says it is b/c the word melacha appears 39 times
+o	Is that opinion in disagreement with the first, or in addition to it?
+o	According to Rashi, seems like a disagreement, but Tos’ says that it has to be in relation to the mishkan, b/c otherwise how else would be able to understand the melachos – must be grounded in something
+•	We are using the mishkan as a guide, starting with a number
+
+
+
+
+2: Learning Melachos from the Mishkan, Avos and Tolados 1
+•	Machlokes Rashi, Rav Hai Gaon
+o	Rashi: melachos based on building and preparation of the mishkan
+o	Rav Hai Gaon: also based on what was done in the mishkan (korbanos)
+	Rayah from Hotzaah which was from loading and unloading boards for the mishkan
+	Rashi would say that that is part of the construction of the mishna
+•	Nafka Minas:
+o	If squeezing olives and grapes is a toldah or av of dosh
+o	Ofeh is a melacha – according to Rav Hai Gaon it makes sense because there were lots of things in the mishkan that needed afiyah – but the gemara was surprised that it’s a melacha, implying that the gemara doesn’t think like rav Hai Gaon
+	Rashi holds that ofeh and bishul are all the same inyan, they do basically the same thing – all the av
+Avos and Tolados:
+•	Most fundamental machlokes:
+o	Gm’ Shabbos 70a: need an extra drasha from pasuk that there are tolados
+o	Gm at beginning of Bava Kamma assumes that the fact that there are avos implies that there are tolados without a drasha
+o	Two explanations: Maharikatz: Nezikin is all svara, so then there is svara for tolados, but by Shabbos it’s not svara so I would have had a reason to assume that there is davka not a toldah so I need a pasuk. So generally assume that there are toldos without reason to say otherwise
+o	Tosfos in bechoros: Tolados are a brand new concept by Shabbos and not the rest of the Torah. Nezikin is obvious it would tolados
+
+
+
+
+
+4: Dosh – Defining the Melocho
+•	Threshing is when they remove the husks surrounding the kernel of wheat
+•	אין דש אלא בגידולי קרקע – therefore combing a sheep’s wool of oils and dirt is not dosh
+•	 Defining:
+o	 Tos’ says milking an animal is mefarek – a Toldah of Dosh since the animal is considered gidulei karka (feed from the ground) 
+	Not a din in edible food davka
+o	Rabbeinu Chananel: Dosh is the psoles attached (מחוברת) to the ochel, and is a preparatory stage for borer  so if what follows the action isn’t borer, then it probably isn’t dosh – this is why peeling a banana isn’t a problem
+	Aruch adds: or it is to prepare it for eating
+o	Rashi: It is removing food from whatever is covering it – that’s why milking is problem
+•	The שביתת השבת explains that the sidura dpas, there is the production of the food product and then the preparing of it to eat. Dosh is right on the border. Which category? 
+o	Either it is the first step of the food preparation b/c separating the food from husk, but is still there or it is the end of the production b/c it hasn’t been removed yet. That would be how it is different than borer    
+
+o	Ran, Ramban: When a cluster of dates falls from a tree after detaching and then the date falls from the cluster is dosh – Where does he get this?
+o	Tos’ quotes Rashi as explaining that taking the heavy dates off of the tree is mefarek, not just kotzair
+o	Rav Asher Weiss suggests that it is davka by cases where the dates are very heavy that it ways down the tree, or the wheat kernel weighs down the stalk
+o	Sounds like Dosh can be without a klippa
+o	So why are you allowed to eat grapes on Shabbos?
+	Rama writes that it is asur to remove green shell (not brown) from hazelnuts which is like removing grain from stalk, and removing hard shell is like peeling a fruit (m”b)
+	How can you tell?
+o	Eglei Tal: There is no violation of Dosh when you are in the eating food process
+	Typically you eat grapes off of the cluster, but not dates
+	This is why you can detach a banana from the cluster
+o	Dosh is a field melocho as opposed to home melocho
+•	If a branch was detached from a tree before Shabbos, you are allowed to remove the fruit from it on Shabbos, not done in the field
+•	Since peanuts nowadays are usually shelled in the factory, so Rav Wozner says that it is assur to shell peanuts on Shabbos, but Rav Nissim Karelitz disagrees
+o	Rav Rimon says it is a shinui from the way the factory does it to just remove the shells one-by-one
+5: Dosh – Choleiv 1
+•	What is Choleiv: different opinions in the Gemara. It is mefarek, which Rashi says is a toldah of Dosh
+o	אין דש אלא בגידולי קרקע but animals aren’t gidulei karka!
+o	Tos’: There is a tana who holds there is dosh on non-gidulei karka (R’ Yehuda) so according to Rashi, halacha is like R’ Yehuda
+	Raayah from Kesubos says that if someone is choleh that needs milk he can suck it straight out of the cow, which is klachar yad b’makom tzaar – drabbanon so mutar here. Could have said אין דש אלא בגידולי קרקע and it would be drabbano
+	Rashba: Gm’ is just presenting why it would be mutar even according to R’ Yehuda, not that we pasken like r’ Yehuda
+	Ramban: Gm’ had to say it was klachar yad b/c אין דש אלא בגידולי קרקע is not the kind of drabonnon that we would be meikel
+•	The Rambam holds the choleiv is chayav mishum Dosh, and ein disha ela b’gidulei karka. How? 4 mehalchim
+o	Teshuva of Rebbi Avraham ben Harambam: The Av of Dosh has the din of ein disha ela b’gidulei karka, but not the toldah, so mefarek is a toldah and it doesn’t have that din. How? 
+	Tos’ says the reason for the din of ein disha ela b’gidulei karka is that it is part of the mishkan, so only after the mishkan, but a toldah isn’t from the mishkan so doesn’t need that din, as opposed to the Rif who holds it I b/c that is the derech of dosh
+	Machlokes about toldah: Do we say toldah is the same issur as the av, or it is it’s own issur. R’ Avraham ben haRambam, must hold the latter
+	Question: so then why is extracting the dye from a chilazon assur? Is it not a toldah? No, it’s an av as opposed to Choleiv, because it is independent, sitting in its own compartment that needs to be opened up, which is the av, as opposed to being absorbed in like in choleiv
+•	So it being an av is a kulah!
+	Minchas Chinuch asks on Rambam: he holds that choveil is chayavmishum Dosh, but isn’t there a din that if the blood is in its own compartment it is mutar b/c ein disha? This explains the Rambam, b/c choleiv is a toldah, so even non-gidulei karka can be chayav.
+o	Keren Orah: the din of אין דש אלא בגידולי קרקע is b/c it’s ein darko bkach (like Rif), so it makes sense that there are exceptions. It isn’t a rule, rather an observation. But if you found disha that is darko bkach that is  שלא בגידולי קרקע. 
+	So what about the chilazon? It is darko bkach to extract its dye, so it shouldn’t be a problem! Difficult to understand
+o	Who says animals aren’t גידולי קרקע. Maybe b/c they are nourished from grass from the ground they are gidulei karka? The tos’ raises this and rejects it, but maybe this explains the Rambam
+	Gm’ says that a general rule for what you can be podeh maaser sheni for is if it is gidulei karka, which is similar to the examples in the Torah, which includes certain animals, so it must be that animals are gidulei karka! Tos’ rejects this b/c it could be that what we consider gidulei karka is different in different places. By maser sheni, animals are the starting point, so maybe then you could say that they are gidulei karka, which is done in other places
+•	Behaima acc. To Tos’ is subjective gidulei karka
+•	Chosom Sofer says the animal but not its milk is gidulei karka, so therefore it is still a problem of dosh, because the thing you are extracting from is gidulei karka
+o	These previous shitos assumed that mefarek is a toldah of dosh. There is an opinion
+6: Dosh – Choleiv 2
+•	Choleiv doesn’t apply when the milk goes out right into the food. The gm’ explains this is b/c schita is like that
+o	It’s b/c it’s not like getting liquid from a food. Its like getting food from a food
+o	The gemara seems to be assuming that choleiv is dosh (like Rashi), but there are a bunch of opinions in the rishonim that it isn’t dosh! For example, R”tam held that it is memachek, so it should not make a difference
+o	Eglei Tal: What is the chiluk between kdeirah (where it is mutar to be socheit into it) and kearah (assur)? That is b/c there it was talking about Yomtov, so it was only mutar b/c it’s ochel nefesh – explains according to all opinions of which melocho milking falls under
+	The Ramban has chiddush that only solids are included in heter of ochel nefesh – explains why kdeirah is asssur
+	The principle is that you are allowed to do things that are שוה לכל נפש which changes over time, which is why showering may be allowed on Yomtov. 
+	This explains the Ramban. Of course he holds you can cook liquids, just something that starts as a solid can’t be turned into liquid, so milking into food is fine b/c stays as food
+o	Another approach from Eglei Tal: m’deoraissa milk on Yomtov is mutar wherever you put it, but m’drabbanan, in a kearah is assur b/c it’s not as obvious when you are going to use it for food right away, but it is obvious by k’deirah                        
+o	You would expect R”T then to say that this heter of choleiv is only on Yomtov, and he does say that, but he says the difference is because on Yomtov, you look at the animal as food, so therefore that which you milk from it is also food, but on Shabbos, you can’t shecht the cow, so it is considered psoles, and then the milk is considered ochel mitoch psoles, so assur and Shabbos
+o	He should have said it is memachek
+•	Tzaar baalei Chayim (doraissa) is docheh the drabbonon of bitul kli m’hechanoh, so the Maharam m’rutenberg (from Rosh) allowed having a goy do choleiv for you, b/c it is docheh the d’rabbonon
+o	Mordechai: But you have to pay the goy for that. The Gra explains that in this case he is doing it for himself b/c he stands to benefit. So he disagrees with the Rosh. Just b/c tzaar baalei chaim is docheh one issur drebonnon doesn’t mean it will be docheh another
+o	The Rosh would say that amirah l’nochri is the most kal issur d’rabbonon so, kal v’chomer that it should be issur here 
+
+Dosh: Choleiv 3 – Milking Cows and Nursing Women
+•	In Israel they would use this kulah to have goyim milk cows on Shabbos, but when they couldn’t use goyim, the Chazon Ish said that they could just milk in a way that the milk is holech l’ibud –
+o	This is like with schitah, where if you are sochet to something (not only for the liquid) then it is mutar
+	Tos’ and Ramban explain b/c by schitah that it is dependant on the kavvanah to be a melacha, so doing chalivah l’ibud is the same
+	Ran disagrees and says it is a melocho sh’eino tzrichah l’gufo, so choleiv l’ibud must be an issur drabbonon 
+	The Chazon Ish says we can be somech on the Tos’ and Ramban
+o	Halacha l’maasah: Can have goyim do it, but also if you have machines that do it, you can put them on a Shabbos clock, and attach the machine to the cow before the machine turns on, and if you can’t turn the machine on before, have it be holech l’ibud
+o	Rav Kook writes that it is critical to have non-Jews do the milking 
+o	There are two main milk companies in Israel, and they have both a Mehadrin hashgacha and a Rabbanut haschgacha
+	Difference is that the Mehadrin guarantees that amira l’nuchri was used on Shabbos, and rabbanut allows Jews milking the cows on Shabbos. How?
+	3 tzdadim to be meikil here for the rabbanut: If Jew does melocho on Shabbos b’meizid, you (not him) can benefit from it after Shabbos
+•	The Chosom Sofer holds that if the non-Jew consistently does the melocho then it is still assur to get Hanaah
+•	R’ Tzvi Pesach Frank argues that you can’t make gzeirahs!
+•	Mothers nursing: 
+o	gemara talks about how babies that were born in the 8th month were considered a neifel,  so it is muktzah, but we allow mothers to nurse these babies b/c of tzaar
+	Tos’ quotes from the Rashba that in makom tzaar it is mutara b/c it’s melacha sheino tzricha l’gufah b’makom tzaar which is mutar
+•	Different than tzaar of beheima
+•	According to this, it doesn’t have to go l’ibud right away
+	Rabbeinu Baruch says it shouldn’t be a melacha at all b/c it is l’ibud
+	L’maasah Poskim recommend that if a women has tzaar, they can put a little soap in the bottle and then do it in the bottle, so it is holech l’ibud
+o	What about if it is not holech l’ibud and she is nursing with a pump to use the milk? 
+	An electric pump is probably drabbonon, and then when she puts the pump on it’s dosh, but then the electric pump is not doing anything after, wheareas the non-electric pump would be dosh every squeeze
+•	May then be better to use the electric pump, can use a timer and put it on before the timer puts on the pump
+•	But if it’s holech libud definitely use manual pump
+o	Stira: Gm’ Ksubos 60: If someone sick and needs milk from animal, they can suck milk directly from animal because it’s tzaar and chalivah klachar yad (drabbanon) so bmakom tzaar mutar. Yevamos, for a sick person only on Yomtov he can milk from animal directly not shabbos
+	R”T explains that the gm’ in kesubos is when he is really sick so allow it on Shabbos, but guy in yevamos is really just hungry
+	Ramban gives another answer: Machlokes of sugyas: gmara in yevamos holds that chalivah klachar yad (drabbanon) bmakom tzaar is assur
+	Machlokes is whether chalivah here is drabbonon or d’oraissa:
+•	If you hold ein disha elah b’gidulei karka, then it is already drabbanon so klachar yad is mutar btzaar (kesubos)
+•	If you hold otherwise, then it would be a problem
+	Shemiras Shabbos paskens you can rely on chalivah klachar yad for choleh on Shabbos: a baby is a choleh, so can do it
+•	Most poskim disagree with R’ Shlomo Zalman
+o	Milking directly is fine, but pumping is a problem, but if baby isn’t latching Sh”aruch paskens can shpritz into babies mouth
+	Shemiras Shabbos paskens if need be she can use electric pump with timer 
+	If she is b’tzaar, she can do holech libud with manual pump
+8 Dosh-Schita 1 (schitas peiros d’rabbanon): 
+•	Gemara: Schitah is only assur by schitas rimonim, but not other peiros
+o	This is b/c pomegranate juice was normally drunk during the week, whereas other fruit juices aren’t
+	Two ways to understand: maybe it’s b/c it is considered a shinui so mutar, or it’s b/c schitah requires mashkeh mitoch ochel, but if there is no known drink on the market of that as a juice ppl drink, it doesn’t have a din of a mashkeh
+o	Halacha is that if you squeeze something for a juice even if it’s not normally done, then it is a problem of schitah
+o	Key ingredient – shem mashkeh, if you are machshiv it then it has the shem
+•	Rashi: Holds no matter when you juice for the juice then it is assur m’deoraissa, but if it is to improve the fruit itself,  if there is someone in the world who is machshiv it as juice, then we have to be choshesh m’drabbonon that you will do it for the purpose of juice. The gzeirah was made on pomegranate juice b/c it is made for juice by others
+•	Rashba: in order to have an issur de’oraissa it has to both be that the person is interested in the fruit juice, and it is not unheard of that some ppl squeeze it for the juices
+•	Beis Yosef: It only matters that there are ppl who squeeze it for juices, but it has to be a whole region, major community that does it somewhere
+o	This is according to Rav Papa later in the gemara, so then Rashi also changes the opinion, so he says he goes like Rashi
+o	Achshvinhu doesn’t matter – that it is being done for the mashkeh
+•	Rama: If you live in a place where ppl squeeze that fruit, it has a din of pomegranates, but if you are in a place where they don’t squeeze that fruit then it is mutar
+o	Magen Avraham explains that he got this from the shitah of the chachamim in kilayim, not R’ Eliezer, but he is using the B”Y as his way of giving shitah
+o	The Magen Avraham says to go according to the Rashba
+•	Mishna Berura: Since everything is juiced nowadays, we are not allowed to juice anything nowadays
+o	The rishonim (rashba) say lemons into empty bowl are mutar. Why? Lemons are a third category. They are only juiced to be used for something else. Nobody drinks straight lemon juice, always for the sake of ochel
+o	The B”Y says he heard of ppl in Egypt who make lemonade, so it should be assur, but the b”y says they were meikel on lemon juice because it is only lemonade when you also add sugar and water to it, and they would juice into water, while it’s only assur into empty cup
+o	Mishna Berura says the second reason isn’t true. People do squeeze into empty container, so nowadays it is assur, unless you juice it directly onto sugar
+o	Rav Ovadya says it’s mutar b/c as is it’s inedible
